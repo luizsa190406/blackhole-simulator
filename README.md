@@ -31,5 +31,5 @@ Simulador 3D de um **buraco negro cinematográfico**, criado em Python, combinan
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/SeuUsuario/blackhole-simulator.git
+git clone https://github.com/luizsa190406/blackhole-simulator.git
 cd blackhole-simulator
